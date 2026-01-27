@@ -14,7 +14,8 @@
 
 ## 3. Модели и диаграммы
 В проекте использованы следующие визуальные модели:
-- [Бизнес-процесс оплаты в BPMN](PaymentBPMN.png)
+- [Бизнес-процесс начала игровой сессии гостя "As-is" в BPMN](PaymentAs-IsBPMN.png)
+- [Бизнес-процесс начала игровой сессии гостя "To-be" в BPMN](PaymentTo-beBPMN.png)
 - [Симуляция as-is модели Anylogic](simulationAsIs.png)
 - [Симуляция to-be модели Anylogic](simulationToBe.png)
 
