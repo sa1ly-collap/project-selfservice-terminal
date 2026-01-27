@@ -16,8 +16,8 @@
 В проекте использованы следующие визуальные модели:
 - [Бизнес-процесс начала игровой сессии гостя "As-is" в BPMN](PaymentAs-IsBPMN.png)
 - [Бизнес-процесс начала игровой сессии гостя "To-be" в BPMN](PaymentTo-BeBPMN.png)
-- [Симуляция as-is модели Anylogic](SimulationAsIs.png)
-- [Симуляция to-be модели Anylogic](SimulationToBe.png)
+- [Симуляция as-is модели Anylogic](SimulationAs-Is.png)
+- [Симуляция to-be модели Anylogic](SimulationTo-Be.png)
 
 
 ## 4. Результаты
